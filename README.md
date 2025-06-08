@@ -1,6 +1,6 @@
 # Valorant-Instalocker
 
-**❗KULLANMADAN ÖNCE YAPILMASI GEREKENLER❗**
+## ***❗KULLANMADAN ÖNCE YAPILMASI GEREKENLER❗***
 - Pythonu orijinal web sayfasından indirerek kurunuz.
 - Bilgisayarınızın komut istemcisini açarak şu komutları giriniz:
 
