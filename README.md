@@ -1,14 +1,14 @@
 # Valorant-Instalocker
 
-## ***❗KULLANMADAN ÖNCE YAPILMASI GEREKENLER❗***
-- Pythonu orijinal web sayfasından indirerek kurunuz.
-- Bilgisayarınızın komut istemcisini açarak şu komutları giriniz:
+## ***❗BEFORE TO RUN❗***
+- Download the python on the official website.
+- Open the console and run this commands:
 
 ```
 pip install tkinter
 pip install valclient
 ```
 
-Bu işlemlerden sonra dosyaları indirerek çalıştırınız karşınıza çıkacak komut istemcisinde *Maç Bekleniyor...* Şeklinde bir yazının yazması lazım oyun içerisinde maç bulunduğunda Yükleme ekranında menü karşınıza gelicek ve karakter seçebileceksiniz.
+Finally run the main.py and enter the game. When you enter the loading screen the menu will open and you can choose the character on loading screen.
   
  
